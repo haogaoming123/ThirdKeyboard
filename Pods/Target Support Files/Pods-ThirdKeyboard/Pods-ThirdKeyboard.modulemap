@@ -1,0 +1,6 @@
+framework module Pods_ThirdKeyboard {
+  umbrella header "Pods-ThirdKeyboard-umbrella.h"
+
+  export *
+  module * { export * }
+}
